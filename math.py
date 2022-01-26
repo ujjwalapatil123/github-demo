@@ -4,7 +4,7 @@ def add(x,y):
     pass
     #Substract implementation
 def substract(x,y):
-    pass
+    return x-y    #on local Feature2
     #Multiply implementation
 def multiply(x,y):
     pass
